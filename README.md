@@ -13,7 +13,7 @@ git clone https://github.com/jojozhuang/game-store-android.git
 Open the project in Android Studio, compile and run.
 
 # Portfolio
-Read portfolio [Game Store(Multi)](https://jojozhuang.github.io/portfolio/game-store-multi/) to learn the main functions of this Android app.
+Read portfolio [Game Store(Multi)](https://jojozhuang.github.io/project/game-store-multi/) to learn the main functions of this Android app.
 
 # Tutorial
-Read tutorial [Building Android App with Android Studio](https://jojozhuang.github.io/tutorial/mobile/building-android-app-with-android-studio/) to learn how this Android app is built.
+Read tutorial [Building Android App with Android Studio](https://jojozhuang.github.io/tutorial/building-android-app-with-android-studio/) to learn how this Android app is built.
